@@ -1,6 +1,3 @@
-cmake_minimum_required (VERSION 3.21)
-project(vulkan_ray_tracing_minimal_abstraction)
-
 find_package(Vulkan REQUIRED)
 find_package(glfw3 REQUIRED)
 
